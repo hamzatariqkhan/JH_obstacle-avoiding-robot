@@ -2,8 +2,8 @@ import RPi.GPIO as GPIO
 import time
 import random
 
-ir_r = 11
-ir_l = 13
+ir_r = 22 
+ir_l = 7 
 mr_r1 = 15
 mr_r2 = 16
 mr_l1 = 18
